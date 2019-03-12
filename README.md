@@ -5,7 +5,7 @@
 - 議論が必要なものがあれば好きに issue を上げてください。
 
 - Ｙ数列は 丫ukito さんが作っている順序数表記のようなものです。
-- 一番完成された展開方法は下記:
+- 展開方法の一部の説明は下記:
 - https://docs.google.com/presentation/d/14xksfL9P3A4Vb_-yIY0jdvCvg77MhjUq08LSHrO4iQE/edit#slide=id.p
 
 - discord と twitter は情報が流れていき辿るのが大変なので、情報をちゃんとツリー型に蓄積させるために開きました。
